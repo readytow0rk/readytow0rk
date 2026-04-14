@@ -1,4 +1,4 @@
-# Hey, I'm Nik 👋
+# Hi, I'm Nik 👋
 
 CS graduate based in the UK 🇬🇧 — I build things with Python and Django, and I'm currently moving into **Cloud & DevOps**.
 
