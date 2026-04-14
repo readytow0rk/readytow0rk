@@ -12,4 +12,4 @@ I've shipped real projects — bots, web apps, payment systems, browser games �
 
 ---
 
-📬 caspi.ready.work@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nikita-drozdov)
+📬 caspi.ready.work@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn]([https://www.linkedin.com/in/nikita-drozdov](https://www.linkedin.com/in/nikita-drozdov-043776258/))
