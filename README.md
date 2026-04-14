@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Nik 👋
 
-<!--
-**readytow0rk/readytow0rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate based in the UK 🇬🇧 — I build things with Python and Django, and I'm currently moving into **Cloud & DevOps**.
 
-Here are some ideas to get you started:
+I've shipped real projects — bots, web apps, payment systems, browser games — not just tutorials. Check the repos below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Currently working on** → AWS Cloud Practitioner cert + Docker  
+**Open to** → Cloud, DevOps, or backend roles  
+**Background** → BSc Computer Science @ Northumbria University
+
+---
+
+📬 caspi.ready.work@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/nikita-drozdov)
