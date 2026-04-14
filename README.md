@@ -1,4 +1,4 @@
-# Hi, I'm Nik 👋
+# Hi, I'm Caspi 👋
 
 CS graduate based in the UK 🇬🇧 — I build things with Python and Django, and I'm currently moving into **Cloud & DevOps**.
 
